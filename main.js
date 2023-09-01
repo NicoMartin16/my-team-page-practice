@@ -2,32 +2,32 @@ const teammates = [
   {
     name: "Bill Mahoney",
     position: "Product Owner",
-    image: "/assets/img/photo1.png",
+    image: "./assets/img/photo1.png",
   },
   {
     name: "Saba Cabrera",
     position: "Art Director",
-    image: "/assets/img/photo2.png",
+    image: "./assets/img/photo2.png",
   },
   {
     name: "Shae Le",
     position: "Tech Lead",
-    image: "/assets/img/photo3.png",
+    image: "./assets/img/photo3.png",
   },
   {
     name: "Skylah Lu",
     position: "UX Designer",
-    image: "/assets/img/photo4.png",
+    image: "./assets/img/photo4.png",
   },
   {
     name: "Griff Richards",
     position: "Developer",
-    image: "/assets/img/photo5.png",
+    image: "./assets/img/photo5.png",
   },
   {
     name: "Stan John",
     position: "Developer",
-    image: "/assets/img/photo6.png",
+    image: "./assets/img/photo6.png",
   },
 ];
 
